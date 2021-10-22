@@ -4,5 +4,12 @@
     min-height: 150px;
     background-color:deepskyblue;
     border: 1px solid black;
-    padding: 20px;
+    padding: 10px;
+}
+
+
+.box-nested {
+    min-height: 150px;
+    background-color:cyan;
+    border: 1px solid black;
 }
