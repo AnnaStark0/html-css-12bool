@@ -18,6 +18,8 @@ background-color: dimgray;
 /*Row*/
 .row {
     display: flex;
+
+    justify-content: center;
 }
 
 /*Col*/
