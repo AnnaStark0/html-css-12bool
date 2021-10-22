@@ -1,0 +1,7 @@
+/*Box*/
+
+.box {
+    min-height: 50px;
+    background-color:deepskyblue;
+    border: 1px solid black;
+}

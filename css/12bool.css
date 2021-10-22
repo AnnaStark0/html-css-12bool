@@ -11,6 +11,8 @@ width: 540px;
 max-width: 540px;
 
 margin: 0 auto;
+
+background-color: dimgray;
 }
 
 /*Row*/
@@ -84,4 +86,48 @@ margin: 0 auto;
 
 .col-sm-offset-1 {
     margin-left: calc ((100% / 12) * 1);
+}
+
+.col-sm-offset-2 {
+    margin-left: calc ((100% / 12) * 2);
+}
+
+.col-sm-offset-3 {
+    margin-left: calc ((100% / 12) * 3);
+}
+
+.col-sm-offset-4 {
+    margin-left: calc ((100% / 12) * 4);
+}
+
+.col-sm-offset-5 {
+    margin-left: calc ((100% / 12) * 5);
+}
+
+.col-sm-offset-6 {
+    margin-left: calc ((100% / 12) * 6);
+}
+
+.col-sm-offset-7 {
+    margin-left: calc ((100% / 12) * 7);
+}
+
+.col-sm-offset-8 {
+    margin-left: calc ((100% / 12) * 8);
+}
+
+.col-sm-offset-9 {
+    margin-left: calc ((100% / 12) * 9);
+}
+
+.col-sm-offset-10 {
+    margin-left: calc ((100% / 12) * 10);
+}
+
+.col-sm-offset-11 {
+    margin-left: calc ((100% / 12) * 11);
+}
+
+.col-sm-offset-12 {
+    margin-left: calc ((100% / 12) * 12);
 }
